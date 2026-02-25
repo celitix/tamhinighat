@@ -16,7 +16,10 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Tamhini Ghat | Khandala Ghat | Ghats Near Pune | Tamhini",
   description: "Tamhini Ghat is one of the most beautiful ghats near Pune. Well-known Khandala ghat the Tamhini is attractive. Know about natural scenery .....",
-   icons: {
+  alternates: {
+    canonical: "https://www.tamhinighat.com/",
+  },
+  icons: {
     icon: [
       { url: '/Tamhini-150x150.png', sizes: '32x32', type: 'image/png' },
       { url: '/Tamhini-300x300.png', sizes: '192x192', type: 'image/png' },
